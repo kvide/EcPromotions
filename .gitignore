@@ -1,0 +1,8 @@
+/.settings
+/.ptp-sync/
+.ptp-sync-folder
+.project
+.buildpath
+
+/src/.ptp-sync/
+/src/.settings/
